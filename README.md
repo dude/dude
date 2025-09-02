@@ -9,7 +9,7 @@
 ---
 
 ## 🎶 About Me
-🎧 **Audio Engineer & Entrepreneur**  
+**Audio Engineer & Entrepreneur**  
 I’m a audio engineer with nearly a decade of experience in mixing, mastering, and sound design.  
 
 I’m the founder of **[Cure Audio](https://cure.audio)**, a company dedicated to helping producers of all skill levels through **VSTs, sample packs, presets, and tutorials**.  
