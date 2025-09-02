@@ -1,34 +1,51 @@
-# 👋 Hey
+<div align="center">
 
-### 🎶 Audio Engineer | 💻 Programmer | 🌍 Creator
+# 👋 Hi, I'm Cameron!
 
-I'm **Cameron**, an audio engineer with nearly a decade of experience in sound design, mixing, and production. I run **[Cure Audio](https://cure.audio)**, where we help producers of all skill levels grow by releasing **VSTs, sample packs, presets, and tutorials**.
+![Profile Views](https://komarev.com/ghpvc/?username=CameronRueckert&color=blue)
+[![Follow Me](https://img.shields.io/github/followers/dude?label=Follow&style=social)](https://github.com/dude)
 
----
-
-## 🚀 What I Do
-- **Founder of Cure Audio** → Teaching producers, building tools, and creating resources for the music community.  
-- **Audio Engineering** → Mixing, mastering, and sound design with 10+ years of hands-on experience.  
-- **Content Creation** → Sharing knowledge and creating products for musicians worldwide.  
 
 ---
 
-## 💻 Programming & Projects
-Outside of audio, I love programming and exploring tech:
-- **Java** → Minecraft plugin & server development.  
-   - Currently building a Minecraft network called **Minevale** 🎮  
-- **Python** → Automation, scripting, and creative coding.  
-- **JavaScript** → Web development and side projects.  
+## 🎶 About Me
+🎧 **Audio Engineer & Entrepreneur**  
+I’m **Cameron**, a 23-year-old audio engineer with nearly a decade of experience in mixing, mastering, and sound design.  
+
+I’m the founder of **[Cure Audio](https://cure.audio)**, a company dedicated to helping producers of all skill levels through **VSTs, sample packs, presets, and tutorials**.  
+
+In my free time, I’m also a passionate **programmer** who loves creating tools and building servers.  
 
 ---
 
-## 🎯 Hobbies & Interests
-- Producing and engineering music.  
-- Developing Minecraft plugins & custom game modes.  
-- Exploring new programming languages and frameworks.  
-- Experimenting with sound design & creating unique audio tools.  
+## 🔆 What I'm working on
+🚀 Growing **Cure Audio** with new plugins, samples, and tutorials.  
+🎮 Developing a custom Minecraft network called **Minevale**.  
+💻 Building tools and plugins in **Java, Python, and JavaScript**.  
+🎹 Exploring creative sound design and new audio tech.
+
+---
+
+## 🛠 My Toolkit
+<div>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Ableton_Live_logo.png" width="40" height="40" alt="Ableton"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+</div>
+
+---
+
+## 📁 Currently Learning
+🎯 Advanced **Minecraft plugin development** with Java  
+⚡ Optimizing **server performance & scalability**  
+🧪 Experimenting with **new frameworks and creative coding**  
 
 ---
 
 ## 📫 Connect With Me
-- 🌐 [My Portfolio](https://cameron.online)  
+🌐 [Portfolio](https://cameron.online)
+
+  </div>
