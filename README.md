@@ -20,7 +20,7 @@ In my free time, I’m also a passionate **programmer** who loves creating tools
 
 ## 🔆 What I'm working on
 🚀 Growing **Cure Audio** with new plugins, samples, and tutorials.  
-🎮 Developing a custom Minecraft network called **Minevale**.  
+🎮 Developing a custom Minecraft network.  
 💻 Building tools and plugins in **Java, Python, and JavaScript**.  
 🎹 Exploring creative sound design and new audio tech.
 
